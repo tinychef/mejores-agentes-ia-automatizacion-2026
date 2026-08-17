@@ -10,8 +10,7 @@ Esta guía separa por nivel, no por nombre de herramienta.
 
 | | Herramienta | Para qué sirve | Link |
 |---|---|---|---|
-| <img src="https://www.google.com/s2/favicons?domain=n8n.io&sz=128" width="24"> | **n8n** | Automatización de flujos de trabajo, open-source y auto-hosteable | [Probar →](https://n8n.partnerlinks.io/8qtvuqc23ra6) |
-| <img src="https://www.google.com/s2/favicons?domain=dryground.ai&sz=128" width="24"> | **Dry Ground AI** | Automatización de flujos de trabajo con IA, orientada a negocio | [Probar →](https://partners.dryground.ai/vqh9n364qwmn) |
+| <img src="https://www.google.com/s2/favicons?domain=dryground.ai&sz=128" width="24"> | **Dry Ground AI** | Automatización de procesos con IA, orientada a negocio | [Probar →](https://partners.dryground.ai/vqh9n364qwmn) |
 | <img src="https://www.google.com/s2/favicons?domain=browse.ai&sz=128" width="24"> | **Browse AI** | Extrae datos de cualquier sitio web sin código | [Probar →](https://partners.browse.ai/xl7l8y680nvi) |
 | <img src="https://www.google.com/s2/favicons?domain=lindy.ai&sz=128" width="24"> | **Lindy** | Agentes de IA personales que actúan en tu email, calendario y apps | [Probar →](https://try.lindy.ai/gkd3o3sgd7d2) |
 | <img src="https://www.google.com/s2/favicons?domain=turbotic.com&sz=128" width="24"> | **Turbotic** | Automatización de procesos robóticos (RPA) a nivel empresa | [Probar →](https://try.turbotic.com/nkdqxpx9guh8) |
@@ -19,19 +18,17 @@ Esta guía separa por nivel, no por nombre de herramienta.
 
 ---
 
-## Automatización de flujos de trabajo: n8n vs. Dry Ground AI
+## Automatización de procesos con IA: Dry Ground AI
 
-Este es el nivel más conocido — el que popularizó Zapier: "cuando pasa X en una app, hacé Y en otra". **n8n** juega ese juego pero con dos diferencias que importan si tenés algo de perfil técnico: es open-source y lo podés auto-hostear, así que no dependés de los límites de ejecuciones de un plan pago ni de que tus datos pasen por un tercero. El editor visual de nodos es potente pero también asume que estás cómodo pensando en lógica condicional, transformación de datos y APIs — no es el más simple para alguien que nunca automatizó nada.
-
-**Dry Ground AI** apunta a un usuario distinto: alguien de negocio que quiere automatizar un proceso con IA metida adentro del flujo (no solo mover datos entre apps, sino que un paso del flujo lo resuelva un modelo) sin tener que operar infraestructura propia ni pensar en nodos y conexiones al estilo desarrollador. Si tu equipo tiene a alguien técnico dispuesto a mantener el sistema, n8n te da más control y cero costo de licencia por ejecución. Si lo que buscás es que el flujo funcione sin que dependa de esa persona técnica, Dry Ground AI reduce esa fricción a cambio de operar dentro de su plataforma.
+Este es el nivel más conocido — el que popularizó Zapier: "cuando pasa X en una app, hacé Y en otra". **Dry Ground AI** apunta a un usuario de negocio que quiere automatizar un proceso con IA metida adentro del flujo (no solo mover datos entre apps, sino que un paso del flujo lo resuelva un modelo) sin tener que operar infraestructura propia ni pensar en nodos y conexiones al estilo desarrollador. Si lo que buscás es que el flujo funcione sin depender de alguien técnico manteniendo el sistema, Dry Ground AI reduce esa fricción a cambio de operar dentro de su plataforma.
 
 ## Extracción de datos web sin código: Browse AI
 
-Antes de automatizar algo con datos de una web, primero hay que *sacar* esos datos — y ahí la mayoría termina escribiendo un scraper que se rompe cada vez que el sitio cambia el diseño. **Browse AI** resuelve ese problema puntual: le mostrás visualmente qué datos querés (precios de la competencia, listados, resultados de búsqueda, lo que sea) y arma un robot que los extrae de forma programada, sin que tengas que tocar código ni mantener selectores CSS. Es la pieza que suele faltar antes de un flujo tipo n8n: primero conseguir el dato limpio, después decidir qué hacer con él.
+Antes de automatizar algo con datos de una web, primero hay que *sacar* esos datos — y ahí la mayoría termina escribiendo un scraper que se rompe cada vez que el sitio cambia el diseño. **Browse AI** resuelve ese problema puntual: le mostrás visualmente qué datos querés (precios de la competencia, listados, resultados de búsqueda, lo que sea) y arma un robot que los extrae de forma programada, sin que tengas que tocar código ni mantener selectores CSS. Es la pieza que suele faltar antes de un flujo de automatización: primero conseguir el dato limpio, después decidir qué hacer con él.
 
 ## Agentes personales que actúan por vos: Lindy
 
-Acá el salto de nivel es real. Un flujo de n8n hace lo que le programaste, ni más ni menos. **Lindy** construye agentes de IA que operan con más autonomía dentro de tu email, calendario y apps conectadas: leen contexto, deciden una acción razonable, y la ejecutan — agendar una reunión, filtrar y responder correos rutinarios, resumir lo que pasó en un canal. No es "IA que te ayuda a escribir una respuesta", es IA que puede llegar a mandarla. Eso lo hace más potente y también exige más confianza de tu parte: conviene empezar dándole tareas de bajo riesgo y ir soltando control a medida que ves cómo se comporta.
+Acá el salto de nivel es real. Un flujo automatizado hace lo que le programaste, ni más ni menos. **Lindy** construye agentes de IA que operan con más autonomía dentro de tu email, calendario y apps conectadas: leen contexto, deciden una acción razonable, y la ejecutan — agendar una reunión, filtrar y responder correos rutinarios, resumir lo que pasó en un canal. No es "IA que te ayuda a escribir una respuesta", es IA que puede llegar a mandarla. Eso lo hace más potente y también exige más confianza de tu parte: conviene empezar dándole tareas de bajo riesgo y ir soltando control a medida que ves cómo se comporta.
 
 ## Automatización a nivel empresa: Turbotic
 
@@ -39,22 +36,22 @@ Acá el salto de nivel es real. Un flujo de n8n hace lo que le programaste, ni m
 
 ## Aparte: QuillBot no es una herramienta de automatización
 
-Vale la mención porque es una herramienta de IA que usa mucha gente que también arma flujos automatizados, pero **QuillBot** resuelve un problema completamente distinto: parafrasear y corregir texto. Sirve para pulir el copy de un email que Lindy va a mandar, o para reescribir contenido antes de que un flujo de n8n lo publique en algún lado — pero es una herramienta de escritura de nicho, no otra pieza del stack de automatización. La incluimos porque aparece en el mismo ecosistema de partners, no porque compita con las demás de esta lista.
+Vale la mención porque es una herramienta de IA que usa mucha gente que también arma flujos automatizados, pero **QuillBot** resuelve un problema completamente distinto: parafrasear y corregir texto. Sirve para pulir el copy de un email que Lindy va a mandar, o para reescribir contenido antes de que un flujo automatizado lo publique en algún lado — pero es una herramienta de escritura de nicho, no otra pieza del stack de automatización. La incluimos porque aparece en el mismo ecosistema de partners, no porque compita con las demás de esta lista.
 
 ## Cómo armamos esta comparativa
 
-Las seis herramientas de esta lista son partners activos del canal — no salimos a buscar "qué se puede monetizar" y después inventamos texto alrededor. Las agrupamos por lo que realmente resuelven porque es la pregunta que más nos hacen: "¿esto reemplaza a Zapier?", "¿esto es lo mismo que un agente de IA?" — y la respuesta casi siempre es que no, son categorías distintas que se solapan en el marketing pero no en el uso real. No hay una jerarquía de "la mejor" en esta lista porque no compiten entre sí; cada una resuelve el nivel de automatización que le toca.
+Las cinco herramientas de esta lista son partners activos del canal — no salimos a buscar "qué se puede monetizar" y después inventamos texto alrededor. Las agrupamos por lo que realmente resuelven porque es la pregunta que más nos hacen: "¿esto reemplaza a Zapier?", "¿esto es lo mismo que un agente de IA?" — y la respuesta casi siempre es que no, son categorías distintas que se solapan en el marketing pero no en el uso real. No hay una jerarquía de "la mejor" en esta lista porque no compiten entre sí; cada una resuelve el nivel de automatización que le toca.
 
 ## Preguntas frecuentes
 
-**¿n8n y Dry Ground AI hacen lo mismo?**
-Se solapan en la idea general (automatizar flujos entre apps), pero n8n es una herramienta técnica y auto-hosteable, mientras que Dry Ground AI está pensada para que alguien de negocio automatice procesos con IA sin operar infraestructura. La elección depende de si tenés a alguien técnico manteniendo el sistema.
-
-**¿Lindy es lo mismo que un flujo de automatización tipo n8n?**
+**¿Lindy es lo mismo que un flujo de automatización tradicional?**
 No. Un flujo automatizado ejecuta exactamente los pasos que le programaste. Lindy toma decisiones dentro de un margen — lee contexto y elige una acción razonable — lo que la hace más flexible pero también algo que conviene supervisar al principio, sobre todo en tareas que involucran mandar mensajes en tu nombre.
 
-**¿Necesito Browse AI si ya uso n8n?**
-Si tu flujo depende de datos que están en una página web sin API pública, sí — Browse AI es la pieza que extrae ese dato de forma confiable para que después n8n (o cualquier otra herramienta) lo procese. Si tus datos ya vienen de APIs o formularios, probablemente no lo necesitás.
+**¿Necesito Browse AI si ya tengo un flujo de automatización armado?**
+Si tu flujo depende de datos que están en una página web sin API pública, sí — Browse AI es la pieza que extrae ese dato de forma confiable para que después tu herramienta de automatización lo procese. Si tus datos ya vienen de APIs o formularios, probablemente no lo necesitás.
+
+**¿Por qué no está n8n en esta lista?**
+Estuvo, pero la partnership quedó pausada: PartnerStack la marcó como pendiente de reaceptar términos de servicio, un trámite que no se puede resolver vía API y que todavía no se completó. Preferimos sacarla mientras esté en ese estado antes que dejar un link que no corresponde a una relación activa. Si se reactiva, vuelve a aparecer.
 
 ---
 
@@ -62,4 +59,4 @@ Si tu flujo depende de datos que están en una página web sin API pública, sí
 
 Comparativa mantenida por [TonyCiencia](https://youtube.com/@tonyciencia). Los links son de afiliado — no te cuesta nada extra entrar por acá y ayuda a sostener el contenido del canal. Solo aparecen herramientas con relación de partner activa, sin testimonios inventados ni posiciones pagadas.
 
-Última actualización: 2026-08.
+Última actualización: 2026-08-17.
