@@ -1,5 +1,7 @@
 # Agentes de IA y automatización: de conectar dos apps a que la IA actúe sola (2026)
 
+![Comparativa 2026 — TonyCiencia](banner.png)
+
 "Automatización" en 2026 significa tres cosas muy distintas, y la mayoría de la gente las mete todas en la misma bolsa. Conectar dos apps para que un formulario dispare un email es un nivel. Que una IA lea una página web y te devuelva los datos ordenados en una hoja de cálculo es otro. Que un agente revise tu bandeja de entrada, decida qué responder y lo mande sin que lo mires es un tercero — y bastante más nuevo. Confundir estos tres niveles es la razón por la que tanta gente prueba una herramienta de automatización, se decepciona porque "no hace lo que pensaba", y en realidad lo que pasó es que estaba buscando algo de otro nivel completamente distinto.
 
 Esta guía separa por nivel, no por nombre de herramienta.
