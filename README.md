@@ -6,6 +6,45 @@
 
 Esta guía separa por nivel, no por nombre de herramienta.
 
+## 🆕 Novedades
+
+### n8n: AI Assistant self-hosted en un solo comando
+![n8n](https://raw.githubusercontent.com/tinychef/tonyciencia-partners-os/main/assets/banners/spotlights/n8n.png)
+
+Su AI Assistant —el que te arma el workflow charlando en vez de nodo por nodo— llegó a instancias self-hosted con instalación mucho más simple (v2.35, 18 de agosto de 2026): antes había que configurar módulo, sandbox y búsqueda web a mano por variables de entorno, ahora un solo comando (`curl -fsSL https://get.n8n.io | sh`) levanta todo con Docker Compose ya preconfigurado.
+
+**[Probar n8n →](https://n8n.partnerlinks.io/8qtvuqc23ra6)**
+
+### Lindy ya es tu compañero de equipo dentro de Slack
+![Lindy](https://raw.githubusercontent.com/tinychef/tonyciencia-partners-os/main/assets/banners/spotlights/lindy.png)
+
+El 10 de agosto de 2026 la empresa reemplazó su creador de agentes clásico por Lindy Teammate: un agente que vive directo en un canal de Slack, acumula contexto del equipo con el tiempo, y suma más de 500 acciones nuevas sobre 200+ apps (HubSpot, Notion, Airtable, QuickBooks) vía Pipedream.
+
+**[Probar Lindy →](https://try.lindy.ai/gkd3o3sgd7d2)**
+
+### Browse AI ya extrajo 9.000 millones de registros sin código
+![Browse AI](https://raw.githubusercontent.com/tinychef/tonyciencia-partners-os/main/assets/banners/spotlights/browse-ai.png)
+
+A comienzos de 2026 superó los 9.000 millones de registros entregados y sumó Formula AI: columnas calculadas para limpiar precios, categorizar productos o extraer emails directo sobre los datos ya extraídos, sin exportarlos a una planilla aparte para procesarlos.
+
+**[Probar Browse AI →](https://partners.browse.ai/xl7l8y680nvi)**
+
+### Turbotic lanzó "Automation AI", su apuesta por ser el Lovable de la automatización
+![Turbotic](https://raw.githubusercontent.com/tinychef/tonyciencia-partners-os/main/assets/banners/spotlights/turbotic.png)
+
+Describís en lenguaje simple el proceso que querés automatizar y la plataforma genera la automatización, combinando el builder visual sin código que ya tenía Turbotic con agentes de IA nativos que operan sobre ese flujo.
+
+**[Probar Turbotic →](https://try.turbotic.com/nkdqxpx9guh8)**
+
+### QuillBot dejó de ser "solo el parafraseador"
+![QuillBot](https://raw.githubusercontent.com/tinychef/tonyciencia-partners-os/main/assets/banners/spotlights/quillbot.png)
+
+Sumó Academic Mode al Paraphraser, Custom Mode al Summarizer, un AI Presentation Maker, una suite de PDF con preguntas y respuestas, y un detector gratuito de imágenes generadas por IA — pasó de reformular una frase a cubrir todo el ciclo de escribir, detectar y reescribir.
+
+**[Probar QuillBot →](https://try.quillbot.com/k5to8y5zq7gh)**
+
+---
+
 ## La comparativa rápida
 
 | | Herramienta | Para qué sirve | Link |
@@ -64,4 +103,4 @@ No compiten directamente. Lindy te da un agente ya pensado para tareas personale
 
 Comparativa mantenida por [TonyCiencia](https://youtube.com/@tonyciencia). Los links son de afiliado — no te cuesta nada extra entrar por acá y ayuda a sostener el contenido del canal. Solo aparecen herramientas con relación de partner activa, sin testimonios inventados ni posiciones pagadas.
 
-Última actualización: 2026-08-22.
+Última actualización: 2026-09-04.
